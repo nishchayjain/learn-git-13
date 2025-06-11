@@ -7,4 +7,7 @@ git commit -> commits the file to git versioning system
 git push origin branch_name -> Push the code from local to remote in branch_name
 git branch -> shows the current selected branch
 git fetch -> fetches newly created code and branches on remote to local.
-
+git pull origin branch_name -> PUlls the latest data of the remote branch into local
+git log -> a list of all commits made in a specific branch
+git checkout branch_name -> switching to branch name
+git checkout -b -> Creates a new branch
