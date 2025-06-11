@@ -1,0 +1,5 @@
+git init -> Initialising a git repository
+git clone -> download a repository from remote to local
+git remote add origin -> adding the origin of remote to local
+git status -> shows the current status of your git repository
+git add -> adds the files to staging area
