@@ -6,5 +6,5 @@ git add -> adds the files to staging area
 git commit -> commits the file to git versioning system
 git push origin branch_name -> Push the code from local to remote in branch_name
 git branch -> shows the current selected branch
-git fetch -> fetches newly created code and branches on remote to local
+git fetch -> fetches newly created code and branches on remote to local.
 
